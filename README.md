@@ -16,7 +16,7 @@ Punctul de pornire îl reprezintă dosarul [DOCUMENTATIE](DOCUMENTATIE) unde put
 
 Al doilea punct de interes esențial este dosarul [SCHEME](SCHEME), unde se prezintă schemele specifice fiecărui sistem electric al tramvaiului.
 
-Bordul cabinei de conducere este prezent în dosarul [PANOURI APARATE](PANOURI%20APARATE).
+Diagrama tramvaiului și bordul cabinei de conducere sînt prezentate în dosarul [PANOURI APARATE](PANOURI%20APARATE).
 
 # Mulțumiri
 
